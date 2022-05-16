@@ -1,0 +1,26 @@
+{
+    "name": "SEC Digital Calendar and Lectionary",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": {
+            "16": "icons/16.png",
+            "32": "icons/32.png",
+            "48": "icons/48.png",
+            "64": "icons/64.png",
+            "128": "icons/128.png"
+        },
+        "default_title": "SEC Digital Calendar and Lectionary",
+        "default_popup": "popup.html"
+    },
+    "author": "Gareth J M Saunders",
+    "description": "Display the Scottish Episcopal Church digital calendar and lectionary in a toolbar popup window.",
+    "homepage_url": "https://www.seccalendar.org.uk/extension/",
+    "icons": {
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "64": "icons/64.png",
+        "128": "icons/128.png"    
+    }
+}
