@@ -10,9 +10,15 @@ The button opens the full website in mobile-view in a small window, so you can a
 
 Want to move everything to a full tab? Right-click a link and select 'Open link in new tab'.
 
-## Pending Review at addons.mozilla.org
+## Firefox Browser Add-ons
 
-**This extension has been submitted to addons.mozilla.org and is pending review. In the meantime, feel free to download it and sideload it into Firefox.**
+Install this add-on via Firefox Browser Add-ons:
+
+[SEC Digital Calendar and Lectionary](https://addons.mozilla.org/en-GB/firefox/addon/sec-digital-calendar/)
+
+## Manual install
+
+Feel free to download it and sideload it into Firefox:
 
 1. Download the files from this repo and unzip them to a folder on your computer.
 2. In Firefox go to settings (...) > Add-ons and themes (Ctrl + Shift + A).
